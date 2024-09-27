@@ -1,4 +1,4 @@
-{"question_id": "101669", "prediction": "A", "gt_answer": "A"},
+[{"question_id": "101669", "prediction": "A", "gt_answer": "A"},
 {"question_id": "104933", "prediction": "C", "gt_answer": "C"},
 {"question_id": "89257", "prediction": "A", "gt_answer": "C"},
 {"question_id": "75209", "prediction": "B", "gt_answer": "A"},
@@ -17994,4 +17994,4 @@
 {"question_id": "v1188", "prediction": "A", "gt_answer": "A"},
 {"question_id": "v1679", "prediction": "A", "gt_answer": "B"},
 {"question_id": "v4119", "prediction": "A", "gt_answer": "A"},
-{"question_id": "v4614", "prediction": "A", "gt_answer": "C"}
+{"question_id": "v4614", "prediction": "A", "gt_answer": "C"}]
